@@ -14,4 +14,4 @@ Ricardo Martins Fortes, mat.: 190044179
 
 Arquivo do projeto no Cisco Packet Tracer: ProjRedes2.pkt
 
-vídeo de demonstração: 
+vídeo de demonstração: https://youtu.be/w0JDOi7Dbd0
